@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfirmationChecker", "Confirmation Checker\ConfirmationChecker.csproj", "{67B4D711-54E3-4CD2-B6F6-5ADACDA7AEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B4D711-54E3-4CD2-B6F6-5ADACDA7AEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B4D711-54E3-4CD2-B6F6-5ADACDA7AEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B4D711-54E3-4CD2-B6F6-5ADACDA7AEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B4D711-54E3-4CD2-B6F6-5ADACDA7AEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65A0148-3DC0-431C-A8ED-C906ED58651E}
+	EndGlobalSection
+EndGlobal
